@@ -1,3 +1,7 @@
+# common_plugin
+
+## Getting Started
+
 使用说明：
 
 1.HttpUtils 为网络请求工具类，需要在自有项目内，登录完成后手动设置 SpUtil.putString('token', data['access_token']); 如不需要 token 直接使用网络请求图片或者其他资源，即设置 needAuthor 为 false
