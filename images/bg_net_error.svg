@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="109px" viewBox="0 0 190 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>网络异常</title>
+    <defs>
+        <linearGradient x1="49.9970377%" y1="100.009591%" x2="49.9970377%" y2="0.0309946714%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D9D9D9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-4.5796287%" y1="3.02467653%" x2="83.859155%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F7F7F7" offset="0%"></stop>
+            <stop stop-color="#CCCCCC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-56.1932644%" y1="0%" x2="108.622047%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#C2C2C2" offset="0%"></stop>
+            <stop stop-color="#E8E8E8" stop-opacity="0.98" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-28.8269992%" y1="23.7212103%" x2="106.49225%" y2="66.6420118%" id="linearGradient-4">
+            <stop stop-color="#B4B4B4" offset="0%"></stop>
+            <stop stop-color="#D5D5D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-56.1932644%" y1="0%" x2="108.622047%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#C2C2C2" offset="0%"></stop>
+            <stop stop-color="#CBCBCB" stop-opacity="0.98" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-56.1932644%" y1="0%" x2="108.622047%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#C2C2C2" offset="0%"></stop>
+            <stop stop-color="#E7E7E7" stop-opacity="0.98" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-284.883595%" y1="-5.68434189e-12%" x2="108.622047%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#C2C2C2" offset="0%"></stop>
+            <stop stop-color="#E7E7E7" stop-opacity="0.98" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.88559317%" y1="49.0184704%" x2="98.8198253%" y2="50.1745752%" id="linearGradient-8">
+            <stop stop-color="#F1F1F1" offset="0%"></stop>
+            <stop stop-color="#D4D4D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9970861%" y1="92.9685457%" x2="49.9970861%" y2="-42.9700113%" id="linearGradient-9">
+            <stop stop-color="#CCCCCC" stop-opacity="0.254152098" offset="0%"></stop>
+            <stop stop-color="#9C9C9C" stop-opacity="0.101262019" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-图标/提示" transform="translate(-371.000000, -3877.000000)">
+            <g id="网络异常" transform="translate(371.000000, 3877.000000)">
+                <path d="M0.148454903,109 C0.148454903,79.1705151 42.5383306,55 94.7790055,55 C147.01968,55 189.409556,79.1705151 189.409556,109" id="路径" fill="url(#linearGradient-1)"></path>
+                <g id="编组-7" transform="translate(50.000000, 0.000000)">
+                    <g id="编组-9" transform="translate(0.830189, 0.000000)">
+                        <circle id="椭圆形" fill="url(#linearGradient-2)" fill-rule="nonzero" cx="43.3396226" cy="34.8679245" r="34.8679245"></circle>
+                        <ellipse id="椭圆形" fill="url(#linearGradient-3)" fill-rule="nonzero" cx="43.0290412" cy="8.30188679" rx="7.47169811" ry="4.1509434"></ellipse>
+                        <ellipse id="椭圆形备份-6" fill="url(#linearGradient-4)" transform="translate(54.651683, 52.716981) rotate(150.000000) translate(-54.651683, -52.716981) " cx="54.6516827" cy="52.7169811" rx="10.7924528" ry="6.22641509"></ellipse>
+                        <circle id="椭圆形备份-5" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="68.7648902" cy="26.5660377" r="4.1509434"></circle>
+                        <circle id="椭圆形备份-7" fill="url(#linearGradient-6)" fill-rule="nonzero" cx="43.0290412" cy="40.2641509" r="2.90566038"></circle>
+                        <ellipse id="椭圆形备份-4" fill="url(#linearGradient-7)" fill-rule="nonzero" transform="translate(17.708286, 28.226415) rotate(22.000000) translate(-17.708286, -28.226415) " cx="17.7082865" cy="28.2264151" rx="2.90566038" ry="3.32075472"></ellipse>
+                        <path d="M7.78242207,29.7048326 C3.4890001,31.0339001 1,32.6137622 1,34.3087949 C1,39.0322156 20.3277829,42.8613046 44.1698113,42.8613046 C68.0118398,42.8613046 87.3396226,39.0322156 87.3396226,34.3087949 C87.3396226,32.5943085 83.1311605,29.9329389 78.6076938,29.4218814" id="路径" stroke="url(#linearGradient-8)" stroke-width="2" stroke-linecap="round" transform="translate(44.169811, 36.141593) rotate(-10.000000) translate(-44.169811, -36.141593) "></path>
+                    </g>
+                    <ellipse id="椭圆形" fill="url(#linearGradient-9)" cx="43.8592299" cy="81.2705882" rx="18.1176471" ry="2.58823529"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>小图标/勾选</title>
+    <defs>
+        <linearGradient x1="0%" y1="61.0051394%" x2="100%" y2="61.0051394%" id="linearGradient-1">
+            <stop stop-color="#628AF4" offset="0%"></stop>
+            <stop stop-color="#566FF9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="09-标识元素" transform="translate(-72.000000, -852.000000)" fill-rule="nonzero">
+            <g id="小图标/勾选" transform="translate(72.000000, 852.000000)">
+                <path d="M10,0 C4.4765625,0 0,4.47851562 0,10 C0,15.5214844 4.4765625,20 10,20 C15.5234375,20 20,15.5234375 20,10 C20,4.4765625 15.5234375,0 10,0 Z" id="路径" fill="url(#linearGradient-1)"></path>
+                <path d="M4.97879617,9 L15.0212038,9 C15.5629275,9 16,9.44863732 16,10 C16,10.5534591 15.5608755,11 15.0212038,11 L4.97879617,11 C4.4370725,11 4,10.5513627 4,10 C4,9.44863732 4.43912449,9 4.97879617,9 L4.97879617,9 Z" id="路径" fill="#FFFFFF"></path>
+                <path d="M4.97879617,9 L15.0212038,9 C15.5629275,9 16,9.44863732 16,10 C16,10.5534591 15.5608755,11 15.0212038,11 L4.97879617,11 C4.4370725,11 4,10.5513627 4,10 C4,9.44863732 4.43912449,9 4.97879617,9 L4.97879617,9 Z" id="路径" fill="#FFFFFF" transform="translate(10.000000, 10.000000) rotate(-90.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

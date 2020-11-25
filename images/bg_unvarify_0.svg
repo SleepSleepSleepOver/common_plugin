@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="105px" viewBox="0 0 146 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>尚未认证</title>
+    <defs>
+        <linearGradient x1="45.7472903%" y1="5.04350929%" x2="45.7472903%" y2="137.537605%" id="linearGradient-1">
+            <stop stop-color="#E5EEFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="85.3647394%" x2="50%" y2="18.4904279%" id="linearGradient-2">
+            <stop stop-color="#F0F6FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D9E7FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="90.2493852%" y1="85.6085283%" x2="0%" y2="15.5957259%" id="linearGradient-3">
+            <stop stop-color="#ABCBFF" offset="0%"></stop>
+            <stop stop-color="#DCE9FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="app设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-图标/提示" transform="translate(-544.000000, -4567.000000)">
+            <g id="尚未认证" transform="translate(544.000000, 4567.000000)">
+                <path d="M73,51 C113.316787,51 146,75.1766235 146,105 L146,105 L0,105 C0,75.1766235 32.6832133,51 73,51 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                <polygon id="矩形" fill="url(#linearGradient-2)" points="51.5968137 56 94 56 78.0368946 85 33 85"></polygon>
+                <path d="M73,0 C90.673112,0 105,14.326888 105,32 C105,49.673112 90.673112,64 73,64 C55.326888,64 41,49.673112 41,32 C41,14.326888 55.326888,0 73,0 Z M72.3695652,20 L55,20 L55,22.1333413 C57.5,22.1333413 59.2826087,23.5700815 60.3478261,26.4217929 L60.3478261,26.4217929 L70.5,47.8205128 L74.5,47.8205128 L84.3913043,26.1387986 C85.2826087,23.4612375 87.1521739,22.1333413 90,22.1333413 L90,22.1333413 L90,20 L76.3695652,20 L76.3695652,22.1333413 C80.8260869,22.3292605 82.2608696,24.0925324 80.6521739,27.4884636 L80.6521739,27.4884636 L75.3043478,39.526604 L69.1521739,25.8775731 C68.0869565,23.5700815 68.3478261,22.3074916 69.9565217,22.1333413 L69.9565217,22.1333413 L72.3695652,22.1333413 L72.3695652,20 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
