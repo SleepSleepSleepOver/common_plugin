@@ -1,0 +1,60 @@
+name: common_plugin
+description: flutter project common library.
+version: 1.0.0
+author: xinyu.pan
+homepage: https://github.com/SleepSleepSleepOver/common_plugin.git
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+  flutter: ">=1.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  fbroadcast: ^1.0.2
+  fsuper: ^2.0.2
+  fdottedline: ^1.0.1
+  fradio: ^1.0.1
+  dio: ^3.0.10
+  agora_rtc_engine: ^3.1.3
+  screen: ^0.0.5
+  flutter_forbidshot: ^0.0.2
+  flustars: ^0.3.3
+  flutter_tencentplayer: ^0.12.0
+  webview_flutter: ^1.0.7
+  open_file: ^3.0.3
+  url_launcher: ^5.7.10
+  bot_toast: ^3.0.5
+  package_info: ^0.4.3
+  permission_handler: ^5.0.1
+  connectivity: ^2.0.2
+  flutter_sound_lite: ^6.4.2
+  flutter_slidable: ^0.5.7
+  extended_image: ^1.3.0
+  wrapper: ^1.0.1
+  flutter_swiper: ^1.1.6
+  flutter_svg: ^0.19.1
+  image_pickers: 1.0.8+6
+  jpush_flutter:
+    git:
+      url: git://github.com/jpush/jpush-flutter-plugin.git
+      ref: master
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: cn.pxy.common_plugin
+        pluginClass: CommonPlugin
+      ios:
+        pluginClass: CommonPlugin
+
+  assets:
+    - images/
